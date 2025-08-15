@@ -1,0 +1,16 @@
+# requirements.txt
+
+# Core libraries
+numpy
+opencv-python
+
+# YOLOv8 and its dependencies
+torch
+torchvision
+ultralytics==8.1.2
+
+# Other dependencies
+matplotlib
+
+jupyter==1.0.0
+jupyterlab==0.34.9
